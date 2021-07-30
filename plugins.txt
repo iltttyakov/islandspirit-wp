@@ -1,3 +1,0 @@
-advanced-custom-fields-pro/  autoptimize/          cyr2lat/         favicon-by-realfavicongenerator/  really-simple-ssl/  wordpress-seo/
-akismet/                     backwpup/             duplicate-post/  http-https-remover/               svg-support/        wp-page-widget/
-all-in-one-wp-migration/     broken-link-checker/  duplicator/      login-lockdown/                   tablepress/
